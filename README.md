@@ -21,7 +21,7 @@
 
 ● 小工具/软件：（更新中）
 
-[Motrix下载器](https://motrix.app/) [图吧工具箱](https://www.tbtool.cn/download/202502.html) [7zip](https://r.ldt.pc.wiki/mirror/7zip) [BandiZip](https://r.ldt.pc.wiki/r2/bandizip-d-v6) [WinRAR](https://wwsz.lanzn.com/iExvC2qpg4mb) [性能检测软件TrafficMonitor](https://gitee.com/mirrors_trending/TrafficMonitor?utm_source=alading&utm_campaign=repo)[Ubuntu](https://cn.ubuntu.com/download) [Debian](https://www.debian.org/download)[istoreOS即Openwrt](https://site.istoreos.com/)[飞牛nas](https://www.fnnas.com/)[风灵月影修改器](https://flingtrainer.com/)
+[Motrix下载器](https://motrix.app/) [图吧工具箱](https://www.tbtool.cn/download/202502.html) [7zip](https://r.ldt.pc.wiki/mirror/7zip) [BandiZip](https://r.ldt.pc.wiki/r2/bandizip-d-v6) [WinRAR](https://wwsz.lanzn.com/iExvC2qpg4mb) [性能检测软件TrafficMonitor](https://gitee.com/mirrors_trending/TrafficMonitor?utm_source=alading&utm_campaign=repo)[风灵月影修改器](https://flingtrainer.com/)
 
 ● 第三方MC启动器：
 
@@ -29,7 +29,7 @@
 
 ● 系统下载：
 
-[MSDN](https://next.itellyou.cn/) [Hello Windows](https://hellowindows.cn/) [下载Windows10](https://www.microsoft.com/zh-cn/software-download/windows10) [下载Windows11](https://www.microsoft.com/zh-cn/software-download/windows11) [爱纯净](https://www.aichunjing.com/) [激和工具](https://www.lanzouo.com/b710887)
+[MSDN](https://next.itellyou.cn/) [Hello Windows](https://hellowindows.cn/) [下载Windows10](https://www.microsoft.com/zh-cn/software-download/windows10) [下载Windows11](https://www.microsoft.com/zh-cn/software-download/windows11) [爱纯净](https://www.aichunjing.com/) [激和工具](https://www.lanzouo.com/b710887) [Ubuntu](https://cn.ubuntu.com/download) [Debian](https://www.debian.org/download) [istoreOS即Openwrt](https://site.istoreos.com/) [飞牛nas](https://www.fnnas.com/)
 
 ● 各种天梯图：
 
