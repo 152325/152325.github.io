@@ -11,7 +11,7 @@
 
 # ○ 自助工具
 
-● 下载站の线路：[线路1](https://152325.github.io/#/) [线路2](https://delicate-primarily-shiner.ngrok-free.app/#/)
+● 下载站の线路：[线路1](https://152325.github.io/#/) [线路2](http://d3569b88.natappfree.cc/#/)
 
 ● 防迷路游戏平台入口：
 
@@ -51,9 +51,105 @@
 
 # # 工具/软件/文章列表（更新中）
 
-# ○ P19 Foobar 2000播放器 v1.6.16
+# ○ P21 RaiDrive v2020.6.25
 
-下载链接：https://www.cnblogs.com/asionwu/p/16305114.html
+● 下载链接：https://wwsz.lanzouu.com/iYFpo2xw5qhg
+
+● 功能：通过支持webdav把alist上的网盘挂载到本地，实现本地管理
+
+● 支持的平台/操作系统：Windows 11/10 x64
+
+# ○ P20 某云PC版jiesuo服务端
+
+● 下载链接：https://wwsz.lanzn.com/iJ0YA2tgzesf
+
+● 教程：
+
+步骤一：
+
+<div style="text-align: center;">
+
+  <img src="pic\20-1.png" alt="示例图片">
+  
+</div>
+
+步骤二：
+
+<div style="text-align: center;">
+
+  <img src="pic\20-2.png" alt="示例图片">
+  
+</div>
+
+步骤三：
+
+<div style="text-align: center;">
+
+  <img src="pic\20-3.png" alt="示例图片">
+  
+</div>
+ 
+步骤四：
+ 
+ <div style="text-align: center;">
+ 
+   <img src="pic\20-4.png" alt="示例图片">
+   
+ </div>
+ 
+步骤五：
+
+<div style="text-align: center;">
+
+  <img src="pic\20-5.png" alt="示例图片">
+  
+</div>
+
+步骤六：
+
+<div style="text-align: center;">
+
+  <img src="pic\20-6.png" alt="示例图片">
+  
+</div>
+
+步骤七：
+
+<div style="text-align: center;">
+
+  <img src="pic\20-7.png" alt="示例图片">
+  
+</div>
+
+效果展示：
+
+<div style="text-align: center;">
+
+  <img src="pic\20-8.png" alt="示例图片">
+  
+</div>
+
+播放展示：不知道为什么就是不能调音质
+
+<div style="text-align: center;">
+
+  <img src="pic\20-9.png" alt="示例图片">
+  
+</div>
+
+下载展示：只能下mp3格式
+
+<div style="text-align: center;">
+
+  <img src="pic\20-10.png" alt="示例图片">
+  
+</div>
+
+
+
+# ○ P19 Foobar2000音乐播放器汉化版
+   
+● 下载链接：https://www.cnblogs.com/asionwu/p/16305114.html
 
 ● 功能：一个比较万能的音乐播放器
 
