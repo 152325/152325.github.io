@@ -11,8 +11,6 @@
 
 # ○ 自助工具
 
-● 下载站の线路：[线路1](https://152325.github.io/#/) [线路2](http://d3569b88.natappfree.cc/#/)
-
 ● 防迷路游戏平台入口：
 
 [Steam](https://store.steampowered.com/about) [Epic](https://www.epicgames.com/help/zh-CN/?lang=zh-CN) [育碧](https://www.ubisoft.com/zh-tw/) [EA](https://www.ea.com/ea-app?isLocalized=true) [暴雪战网](https://download.battle.net/zh-cn/desktop) [R星](https://www.rockstargames.com/)
@@ -51,6 +49,78 @@
 
 # # 工具/软件/文章列表（更新中）
 
+# ○ P24 剪映V6.0学习版
+
+● 下载链接：https://yun.139.com/shareweb/#/w/i/2rAc7vWfHA7s6  提取码:s5u0
+
+● 安装教程
+
+<div style="text-align: left;">
+
+步骤一：
+
+<img src="pic\24-1.png" class="responsive-img">
+
+ 步骤二：
+ 
+ <img src="pic\24-2.png" class="responsive-img" width="100%" height="auto">
+ 
+ 步骤三：
+ 
+ <img src="pic\24-3.png" class="responsive-img" width="100%" height="auto">
+ 
+ 步骤四：
+ 
+ <img src="pic\24-4.png" class="responsive-img" width="100%" height="auto">
+
+ 步骤五：
+ 
+ <img src="pic\24-5.png" class="responsive-img">
+ 
+ 步骤六：
+ 
+ <img src="pic\24-6.png" class="responsive-img">
+
+ 步骤七：
+ 
+ <img src="pic\24-7.png" class="responsive-img">
+
+ 步骤八：
+ 
+ <img src="pic\24-8.png" class="responsive-img">
+
+ 效果展示：
+ 
+ <img src="pic\24-9.png" class="responsive-img"> <img src="pic\24-10.png" class="responsive-img"> <img src="pic\24-11.png" class="responsive-img">
+
+ </div>
+
+●支持的平台/操作系统：Windows 11/10 x64（推荐GTX1060 6G以上的显卡或RX580 8G以上显卡 CPU英特尔8代以上以及AMD锐龙3代以上）
+
+# ○ P23 安卓车机手车互联
+
+● 下载链接：https://www.123865.com/s/ykBqVv-1agiH
+
+● 介绍：收集了不同手车互联的安装包（小米carwith老版、iccoa、百度carlife、亿联）感谢迪友社区提供的iccoa的不同版本以及carwith
+
+● 支持的平台/操作系统：安卓5.0及以上
+
+# ○ P22 谷歌地图中国大陆版
+
+● 下载链接：https://wwsz.lanzouu.com/ipdCk2zk6i2j
+
+● 功能展示：
+
+  <div style="text-align: center;">
+
+  <img src="pic\22-1.png" alt="埃菲尔2025图像">
+
+  <img src="pic\22-2.png" alt="埃菲尔1943图像">
+
+  </div>
+
+● 支持的平台/操作系统：Windows 11/10 x64
+
 # ○ P21 RaiDrive v2020.6.25
 
 ● 下载链接：https://wwsz.lanzouu.com/iYFpo2xw5qhg
@@ -59,93 +129,9 @@
 
 ● 支持的平台/操作系统：Windows 11/10 x64
 
-# ○ P20 某云PC版jiesuo服务端
+# ○ P20 某云PC版jiesuo服务端 (失效)
 
-● 下载链接：https://wwsz.lanzn.com/iJ0YA2tgzesf
-
-● 教程：
-
-步骤一：
-
-<div style="text-align: center;">
-
-  <img src="pic\20-1.png" alt="示例图片">
-  
-</div>
-
-步骤二：
-
-<div style="text-align: center;">
-
-  <img src="pic\20-2.png" alt="示例图片">
-  
-</div>
-
-步骤三：
-
-<div style="text-align: center;">
-
-  <img src="pic\20-3.png" alt="示例图片">
-  
-</div>
- 
-步骤四：
- 
- <div style="text-align: center;">
- 
-   <img src="pic\20-4.png" alt="示例图片">
-   
- </div>
- 
-步骤五：
-
-<div style="text-align: center;">
-
-  <img src="pic\20-5.png" alt="示例图片">
-  
-</div>
-
-步骤六：
-
-<div style="text-align: center;">
-
-  <img src="pic\20-6.png" alt="示例图片">
-  
-</div>
-
-步骤七：
-
-<div style="text-align: center;">
-
-  <img src="pic\20-7.png" alt="示例图片">
-  
-</div>
-
-效果展示：
-
-<div style="text-align: center;">
-
-  <img src="pic\20-8.png" alt="示例图片">
-  
-</div>
-
-播放展示：不知道为什么就是不能调音质
-
-<div style="text-align: center;">
-
-  <img src="pic\20-9.png" alt="示例图片">
-  
-</div>
-
-下载展示：只能下mp3格式
-
-<div style="text-align: center;">
-
-  <img src="pic\20-10.png" alt="示例图片">
-  
-</div>
-
-
+● 下载链接：失效
 
 # ○ P19 Foobar2000音乐播放器汉化版
    
@@ -259,7 +245,7 @@
 
 # ○ P9 Studio One直播机架（附7.0本体）
 
-●下载链接：https://pan.baidu.com/s/1OgH8VQTTVaefcPPqw3lW0Q?pwd=uawn 提取码: uawn 
+●下载链接：https://yun.139.com/shareweb/#/w/i/2rAc902KNHJri  提取码:ur97 
 
 ●支持平台/操作系统：Windows 11/10 x64
 
@@ -299,28 +285,29 @@
 
 ●支持的平台/操作系统：Windows 11/10 x64/86
 
-# ○ P4 ODE多功能助手
+# ○ P4 Office Tool Plus
 
-●下载链接：https://wwsz.lanzn.com/iFNJ12s2frwh
+●官网链接：https://otp.landian.vip/zh-cn/
 
-●功能介绍：可以满速杜盘下载但是需要买卡密 原理利用卡密里的账号来代理下载或者用
+●功能介绍：免费部署、激活、安装Office各个版本
 
-●支持的平台/操作系统：Windows 11/10 x64/86
+●支持的平台/操作系统：Windows 11/10/7/ x64/86 
 
 # ○ P3 剪映国际版 v5.7
 
-●下载链接：https://pan.xunlei.com/s/VOMe_GtvferOIACgfAZ8Ich-A1?pwd=n2iv# 提取码：n2iv
+●下载链接：https://yun.139.com/shareweb/#/w/i/2rAc7SXQ9Jety  提取码:jzmt 
+
 ●功能介绍：与正式版剪映版不一样的是去除了v1p限制以及资源使用限制 唯一的缺点是需要手动改中文
 
 ●支持的平台/操作系统：Windows 11/10 x64（推荐GTX1060 6G以上的显卡或RX580 8G以上显卡 CPU英特尔8代以上以及AMD锐龙3代以上）
 
-# ○ P2 剪映po解版 v5.9
+# ○ P2 剪映po解版 v5.9 （失效）
 
-●下载链接：https://pan.quark.cn/s/308ea19f8ae4
+●下载链接：失效
 
 ●功能介绍：po街了v1p限制资源和权限
 
-●支持的平台/操作系统：Windows 11/10 x64（推荐GTX1060 6G以上的显卡或RX580 8G以上显卡 CPU英特尔8代以上以及AMD锐龙3代以上）
+●支持的平台/操作系统：失效
 
 # ○ P1 Windows内网共享
 
@@ -329,3 +316,5 @@
 ●功能介绍：通过内网共享你想共享的文件和文件夹
 
 ●支持的平台/操作系统：Windows 11/10/8.1/8/7 x64/x86
+
+

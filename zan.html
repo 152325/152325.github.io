@@ -7,13 +7,13 @@
         /* 设置父容器为Flex容器，并居中对齐 */
         .parent {
             display: flex;
-            justify-content: center; /* 水平居中 */
-            align-items: center;    /* 垂直居中 */
-            height: 100vh;          /* 父容器高度为视口高度 */
+            justify-content: center; 
+            align-items: center;   
+            height: 100vh;         
             background-color: #f0f0f0;
         }
 
-        /* 设置子元素样式 */
+     
         .child {
             width: 1600px;
             height: 900px;
@@ -24,6 +24,40 @@
             align-items: center;
             font-size: 20px;
         }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    /* 本地图片路径设置 - 根据实际情况修改 */
+    background-image: url('windows-xp-bliss-4k-lu-3840x2160.jpg'); /* 与HTML同目录 */    
+    background-repeat: no-repeat; /* 不重复平铺 */
+    background-size: cover; /* 覆盖整个容器 */
+    background-attachment: fixed; /* 固定背景不随滚动移动 */
+    background-position: center; /* 图片居中显示 */
+    min-height: 100vh; /* 确保背景覆盖整个视口高度 */
+}
+
+/* 可选：添加半透明遮罩（当背景图影响文字可读性时使用） */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* 黑色半透明，透明度可调整 */
+    z-index: -1; /* 确保遮罩在内容下方 */
+}
+        
+        
     </style>
     </head>
 <body>

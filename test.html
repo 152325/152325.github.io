@@ -1,0 +1,27 @@
+!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>无控件音频播放</title>
+    
+</head>
+<body>
+    <audio controls>
+        <!-- 可以提供多种音频格式以兼容不同浏览器 -->
+        <source src="2.mp3" type="audio/mpeg">
+        <source src="2.ogg" type="audio/ogg">
+    </audio>
+
+    <h3>自动播放（受浏览器限制）</h3>
+    <audio autoplay loop muted>
+        <source src="2.mp3" type="audio/mpeg">
+    </audio>
+
+    <h3>隐藏控件（通过JavaScript控制）</h3>
+    <audio id="hiddenAudio" loop>
+        <source src="2.mp3" type="audio/mpeg">
+    </audio>
+    
+</body>
+</html>
